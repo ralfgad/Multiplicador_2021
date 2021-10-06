@@ -12,11 +12,11 @@ Se os ha colocado un ejemplo de entregable para que veais cómo debería ser la 
 ## Diseño
 Se os proporciona el ASM de la solución
 
-![ASM](imagenes/ASM_booth.jpg) 
+![ASM](imagenes/ASM_booth_modificado.jpg) 
 
 Para ayudaros a la visión general de los componentes generales necesarios que se implican por el ASM anterior, incluimos el siguiente esquema:
 
-![Esquema](imagenes/ESQUEMA_booth.jpg) 
+![Esquema](imagenes/ESQUEMA_booth_modificado.jpg) 
 
 ## Verificación
 
